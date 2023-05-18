@@ -1,0 +1,2 @@
+Followed all steps mention in session to create IAM adminuser and created EC2 instance
+I understand the concepts
